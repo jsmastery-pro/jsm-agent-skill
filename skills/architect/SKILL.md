@@ -100,7 +100,12 @@ After saying "Blueprint ready", write a clear implementation plan based on every
 
 Present the plan to the developer. Wait for them to confirm before anything gets built.
 
-Only after explicit confirmation does implementation begin.
+Only after explicit confirmation:
+
+1. Save the plan to `implementation-plan.md` in the project root. If the file already exists, show a one-line summary of what is saved and ask the developer before overwriting.
+2. Begin implementation.
+
+Saving the plan lets `/review` and `/remember restore` find it in later sessions, instead of losing it when the chat ends.
 
 ## What This Session Is Not
 
