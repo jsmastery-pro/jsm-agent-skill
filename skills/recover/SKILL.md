@@ -189,7 +189,7 @@ Write this as a brief reset note:
 ```
 Next steps:
 
-1. Save this reset note somewhere accessible
+1. 1. Save this reset note to `reset-note.md` in the project root
 2. End this session completely
 3. Start a fresh session
 4. Begin with /remember restore if memory exists
