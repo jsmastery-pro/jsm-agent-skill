@@ -189,7 +189,7 @@ Write this as a brief reset note:
 ```
 Next steps:
 
-1. Save this reset note somewhere accessible
+1. 1. Save this reset note to `reset-note.md` in the project root
 2. End this session completely
 3. Start a fresh session
 4. Begin with /remember restore if memory exists
@@ -229,6 +229,8 @@ Key difference from current approach: [explanation]
 
 What needs to be discarded: [what cannot be salvaged]
 What can be kept: [what is still valid]
+
+
 ```
 
 ### Do not start rebuilding immediately
