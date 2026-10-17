@@ -21,7 +21,8 @@ Before reviewing anything, establish the benchmark.
 
 Read in this order:
 
-- The implementation plan from `/architect` if one exists
+- - The implementation plan from `/architect` — read
+  `implementation-plan.md` in the project root if it exists
 - The feature description or task that was given
 - Any relevant context files — architecture boundaries, code standards, design rules
 
