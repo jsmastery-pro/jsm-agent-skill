@@ -170,6 +170,8 @@ Read `memory.md` first. Then check for these specific context files if they exis
 - `AGENTS.md` — Codex
 - `.clinerules` — Cline
 - `context.md` — generic fallback
+- `implementation-plan.md` — plan saved by `/architect`
+- `reset-note.md` — note saved by `/recover` after a hard reset
 
 Do not scan or read other files beyond this list. Build the most complete picture possible from what is available.
 
